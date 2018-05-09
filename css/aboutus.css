@@ -1,0 +1,31 @@
+.aboutbot h1{
+	font-size:16px;
+	color: #2b3242;
+	margin-top: 90px;
+}
+.aboutbot li{
+	margin-top: 40px;
+	width: 380px;
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 40px;
+}
+.aboutbot h2{
+	color: black;
+	font-size: 16px;
+	margin-bottom: 30px;
+	font-weight: 700;
+}
+.aboutbot p{
+	width: 380px;
+	color: #2b3242;
+	font-size: 16px;
+	line-height: 25px;
+}
+.aboutbot>.inner>h3{
+	color: #2b3242;
+	font-size: 16px;
+	line-height: 25px;
+	margin-bottom: 20px;
+	font-weight: normal;
+}

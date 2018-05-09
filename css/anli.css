@@ -1,0 +1,45 @@
+.anli_top{
+	width: 100%;
+	height: 550px;
+	background: url(../img/case-bg.jpg) center center;
+	background-size: 100% 100%;
+	position: relative;
+}
+.anli_top>.inner>h1{
+	font-size: 50px;
+	color: white;
+	position: absolute;
+	top: 190px;
+	left: 7%;
+	font-weight: normal;
+}
+.anli_top>.inner>h2{
+	font-size: 20px;
+	color: white;
+	position: absolute;
+	top: 356px;
+	left: 7%;
+}
+/*main*/
+.anli_main{
+	height: 1055px;
+	background: white;
+}
+.anli_tit{
+	height: 65px;
+	line-height: 65px;
+	border-bottom: 1px solid #e9e9e9;
+}
+.anli_tit li{
+	float: left;
+	font-size: 16px;
+	color: #2B3242;
+	margin-right: 20px;
+	cursor: pointer;
+}
+.anli_tit li:hover{
+	color: #dd514c;
+}
+.anli_bot li{
+	margin-bottom: 12px;
+}

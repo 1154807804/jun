@@ -1,0 +1,37 @@
+.lianxitop{
+	height: 90px;
+	position: relative;
+}
+.lianxitop h1{
+	margin-top: 0;
+	font-size: 16px;
+	color: black;
+	text-align: left;
+}
+.lianxitop h4{
+	font-size: 16px;
+	color: black;
+	text-align: left;
+	position: absolute;
+	left: 0;
+	top: 85px;
+}
+.lianxi .lianxiwomenbot{
+	height: 150px;
+}
+.lianxiwomenbot li{
+	margin-top: 10px;
+	float: left;
+	width: 280px;
+	height: 137px;
+	border: 1px solid #d8d8d8;
+	font-size: 16px;
+	text-align: center;
+	line-height: 135px;
+	background: white;
+}
+.lianxiwomenbot li:hover{
+	background: #2b3242;
+	color: white;
+	transition:all 1s;
+}
